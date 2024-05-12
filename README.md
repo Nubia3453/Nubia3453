@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nubia3453
+- 👋 Hi, I’m Vinayak.
 - 👀 I’m interested in data, data science, and data analytics.
 - 🌱 I’m currently learning data analysis.
 - 💞️ I’m looking to collaborate on data analysis-based projects and assignments.
